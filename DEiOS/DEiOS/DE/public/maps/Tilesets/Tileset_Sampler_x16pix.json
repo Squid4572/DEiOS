@@ -1,0 +1,14 @@
+{ "columns":30,
+ "image":"..\/..\/img\/tilesets\/Tileset_Sampler_x16pix.png",
+ "imageheight":256,
+ "imagewidth":480,
+ "margin":0,
+ "name":"Tileset_Sampler_x16pix",
+ "spacing":0,
+ "tilecount":480,
+ "tiledversion":"1.7.2",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.6"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "rmmz-game",
+    "main": "index.html",
+    "chromium-args": "--force-color-profile=srgb --disable-devtools",
+    "window": {
+        "title": "DOLL EYE - CHAPTER 1",
+        "width": 1008,
+        "height": 816,
+        "position": "center",
+        "icon": "icon/icon.png"
+    }
+}

@@ -1,0 +1,13 @@
+{
+	"appId": "net.ddns.4572.socam.deios",
+	"appName": "Doll Eye",
+	"webDir": "dist",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	},
+	"packageClassList": [
+		"FilesystemPlugin"
+	]
+}
