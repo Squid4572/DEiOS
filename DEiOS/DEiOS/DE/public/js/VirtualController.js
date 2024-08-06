@@ -27,20 +27,20 @@ window.addEventListener('load', function () {
     <div id="rightdownKey"></div>\
 </div>\
 <div id="bg2">\
-    <div id="XKey"><div id="tX">X</div></div>\
-    <div id="YKey"><div id="tY">Y</div></div>\
-    <div id="AKey"><div id="tA">A</div></div>\
-    <div id="BKey"><div id="tB">B</div></div>\
+    <div id="XKey"><div id="tX">⇧</div></div>\
+    <div id="YKey"><div id="tY">⎋</div></div>\
+    <div id="AKey"><div id="tA">x</div></div>\
+    <div id="BKey"><div id="tB">z</div></div>\
 </div>\
 '
 
     document.getElementById('mainKeyDiv').innerHTML = div
 
     //按键2键码定义
-    var YKeyCode = 115
-    var XKeyCode = 17
-    var BKeyCode = 88
-    var AKeyCode = 90
+    var YKeyCode = 27
+    var XKeyCode = 16
+    var BKeyCode = 90
+    var AKeyCode = 88
 
     //获取元素
     var bg = document.getElementById('bg')

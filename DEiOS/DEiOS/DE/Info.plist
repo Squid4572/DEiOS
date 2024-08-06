@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-        <string>Doll Eye</string>
+	<string>Doll Eye</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -45,5 +45,7 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<true/>
+	<key>&lt;Save Data location on iOS&gt;</key>
+	<string>/var/mobile/Containers/Data/Application/&lt;Containers ID&gt;/Library/WebKit/WebsiteData/IndexedDB/v1/capacitor_localhost_0/&lt;string that might be different for other people, I don’t know&gt;/IndexedDB.sqlite3</string>
 </dict>
 </plist>
